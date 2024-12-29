@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kxs1119" alt="kxs1119" /></a> </p>
 
-- 🔭 I’m currently working on [Detection System](https://github.com/kxs1119/Detection-System)
+- 🔭 I’m currently working on [Website Remodel](https://staceyscakesandcreations.com/)
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA, React, Python, Bash**
 
