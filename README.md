@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏾, I'm Kenny Smith</h1>
-<h3 align="center">Software Engineer | Builder of Clean Code & Cool Projects</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kxs-codes&label=Profile%20views&color=0e75b6&style=flat" alt="kxs-codes" />
@@ -13,8 +13,10 @@
 
 ---
 
-🔭 I’m currently working on a full website remodel for  
-👉🏾 [Stacey’s Cakes & Creations](https://staceyscakesandcreations.com/)
+🔭 I’m currently a working on
+- **Learning Enhancment System**
+- **Furhat Robot Academic Advisor**
+- **SoraSync**
 
 🌱 Learning the full stack:  
 **HTML | CSS | Java | React | Python | Bash | Kotlin | Tailwind**
@@ -29,13 +31,14 @@
 **kxs1119@outlook.com**
 
 ⚡ Fun fact:  
-**I've interned at J.P. Morgan Chase twice as a Software Engineer**
+*I box for fitness 🥊*
+
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kenny-smith-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/kenny-smith-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
