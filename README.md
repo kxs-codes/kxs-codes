@@ -15,7 +15,7 @@
 
 <!-- 🤝 Looking to collaborate on: --> 
 
-🎓 Studying Computer Science @  
+🎓 Alum | CS | IS @  
 **Slippery Rock University**
 
 📫 Connect w me @  
