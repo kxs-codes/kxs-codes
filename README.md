@@ -8,20 +8,17 @@
 ---
 
 🔭 I’m currently a working on
-- **Learning Enhancment System**
-- **Furhat Robot Academic Advisor**
-- **SoraSync**
+- **School Bus Routing**
+- **Stacey's Cakes and Creations**
 
-🌱 Learning the full stack:  
-**HTML | CSS | Java | React | Python | Bash | Kotlin | Tailwind**
 
-🤝 Looking to collaborate on:  
-[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+
+<!-- 🤝 Looking to collaborate on: --> 
 
 🎓 Studying Computer Science @  
 **Slippery Rock University**
 
-📫 Reach me at:  
+📫 Connect w me @  
 **kxs1119@outlook.com**
 
 ⚡ Fun fact:  
