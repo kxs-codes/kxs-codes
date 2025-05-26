@@ -10,13 +10,22 @@
 
 ---
 
-🔭 I’m currently a working on
-- **School Bus Routing**
-- **Stacey's Cakes and Creations**
+🎓 Alum | CS | IS  
+**Slippery Rock University**
+
+🔭 Check out some of my work:
+
+- **📦 School Bus Routing App** *(Spring Boot + React)*
+  -   *Private repository – available upon request*
+
+- **🎂 Stacey's Cakes and Creations** *(Business website in progress)*  
+  -   *Private repository – available upon request*
+- **🧶 Hooked2Yarn** *(Craft-focused inventory + client tracker)*
+  -   *Private repository – available upon request*
 
 
 
-🎓 Alum | CS | IS @  
+🎓 Alum | CS | IS  
 **Slippery Rock University**
 
 ⚡ Fun fact:  
@@ -52,7 +61,6 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://www.vim.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/></a>
