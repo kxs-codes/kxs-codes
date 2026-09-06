@@ -1,11 +1,11 @@
 <h1 align="center">Kenny Smith</h1>
 
 <p align="center">
-  <strong>Software Engineer · Infrastructure & Automation · Product Builder</strong>
+  <strong>Software Engineer · Infrastructure · Automation</strong>
 </p>
 
 <p align="center">
-  Building dependable systems, useful software, and thoughtful digital experiences.
+  Building reliable systems, automating repetitive work, and continuously expanding how I design and ship software.
 </p>
 
 <p align="center">
@@ -15,63 +15,116 @@
   <a href="https://www.linkedin.com/in/kxs-codes">
     <img src="https://img.shields.io/badge/LinkedIn-Kenny%20Smith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kxs-codes&label=Profile%20Views&color=111827&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a software engineer focused on infrastructure, automation, backend development, and building practical products.
+I'm a software engineer interested in the intersection of **software development, infrastructure, and automation**.
 
-I enjoy turning complex operational challenges into reliable, maintainable solutions. Outside of my professional work, I design and deploy software for small businesses, personal projects, and real-world problems.
+My focus is on understanding how systems work end-to-end — from application code and APIs to deployment, infrastructure, observability, and the automation surrounding them.
 
-- Software Engineer at **PNC**
-- Graduate of **Slippery Rock University**
-- Building automation and infrastructure solutions
-- Expanding my backend engineering experience with **Go**
-- Always exploring better ways to build, ship, and improve software
+Currently:
 
----
+- Working as a **Software Engineer at PNC**
+- Exploring **cloud infrastructure, DevOps, and platform engineering**
+- Strengthening my backend engineering skills with **Java, Spring Boot, Python, and Go**
+- Building hands-on projects to deepen my understanding of **containers, infrastructure as code, CI/CD, and system design**
+- Experimenting with new technologies by building and shipping real software
 
-## Selected Work
-
-| Project | Description | Link |
-|---|---|---|
-| **KXS Codes** | Personal portfolio showcasing my work, experience, and projects. | [Visit Website](https://www.kxs-codes.com) |
-| **Stacey's Cakes and Creations** | A modern business website supporting the brand's online presence and customer experience. | [Visit Website](https://www.staceyscakesandcreations.com) |
-| **Stardust n' Stitches** | A custom inventory and client-management solution built around real business workflows. | [Visit Website](https://www.stardust-n-stitches.com) 
----
-
-## What I Work On
-
-- Infrastructure and workflow automation
-- Backend services and system integrations
-- Monitoring, observability, and operational reliability
-- Internal tools that simplify complex processes
-- Business-focused web applications
-- End-to-end product development
+I use GitHub as a place to document that progression.
 
 ---
 
-## Languages & Tools
+## Featured Projects
+
+### KXS Codes
+**Personal Portfolio**
+
+My personal engineering portfolio showcasing projects, experience, and what I'm currently learning.
+
+[View Portfolio →](https://www.kxs-codes.com)
+
+### Stacey's Cakes and Creations
+**Production Web Application**
+
+Designed and deployed a responsive web experience for a real-world business, with an emphasis on maintainability, usability, and production deployment.
+
+[View Project →](https://www.staceyscakesandcreations.com)
+
+### Stardust n' Stitches
+**Inventory & Client Management**
+
+Built around real operational workflows to explore how software can simplify inventory management, customer information, and day-to-day processes.
+
+[View Project →](https://www.stardust-n-stitches.com)
+
+---
+
+## What I'm Developing
+
+```text
+Software Engineering
+├── Backend Development
+│   ├── Java / Spring Boot
+│   ├── Python
+│   ├── Go
+│   └── REST APIs
+│
+├── Infrastructure & Automation
+│   ├── Docker
+│   ├── Kubernetes
+│   ├── Terraform
+│   ├── Ansible
+│   └── CI/CD
+│
+├── Cloud & Reliability
+│   ├── AWS / Azure
+│   ├── Observability
+│   ├── Linux
+│   └── System Design
+│
+└── Frontend
+    ├── React / Next.js
+    ├── Angular
+    └── Tailwind CSS
+```
+
+---
+
+## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,go,bash,react,spring,docker,kubernetes,terraform,ansible,postgres,mysql,git,tailwind,vim&perline=8" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,bash,spring,react,nextjs,angular,docker,kubernetes,terraform,ansible,postgres,mysql,git,linux&perline=8" alt="Technologies" />
 </p>
 
 ---
 
-## Beyond Engineering
+## Current Focus
 
-When I'm away from the keyboard, you'll usually find me boxing, training, or working toward the next challenge.
+I'm deliberately developing toward engineering roles where **software, cloud infrastructure, automation, and reliability intersect**.
+
+Right now, that means spending more time building with:
+
+`Go` · `Docker` · `Kubernetes` · `Terraform` · `Cloud Infrastructure` · `System Design`
+
+while continuing to strengthen my core software engineering fundamentals.
+
+---
+
+## Outside the Terminal
+
+When I'm not building software, you'll usually find me boxing, training, or finding something new to learn.
 
 ---
 
 <p align="center">
-  <strong>Have an interesting project or opportunity?</strong>
-  <br />
-  <a href="https://www.linkedin.com/in/kxs-codes">Let's connect on LinkedIn</a>
+  <strong>Software should solve problems. Engineering should make those solutions last.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.kxs-codes.com">Portfolio</a>
   ·
-  <a href="https://www.kxs-codes.com">Explore my portfolio</a>
+  <a href="https://www.linkedin.com/in/kxs-codes">LinkedIn</a>
 </p>
